@@ -60,7 +60,7 @@ class VGGNet(nn.Module):
 # Usage example (not executed when imported):
 if __name__ == "__main__":
     torch.cuda.empty_cache()
-    # Quick test of the AlexNet model
+    # Quick test of the VGGNet model
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     model = VGGNet().to(device)
     x = torch.randn(1, 3, 224, 224).to(device)  # Example input tensor
