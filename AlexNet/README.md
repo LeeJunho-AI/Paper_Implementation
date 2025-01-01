@@ -1,4 +1,4 @@
-## Paper_Implementation
+## AlexNet_Implementation
 
 This implementation is specifically for my personal learning purposes and aiming to enhance my understanding of the AlexNet architecture.
 
