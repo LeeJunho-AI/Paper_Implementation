@@ -28,7 +28,6 @@ def main():
         elif mode == "evaluate":
             print("Evaluation Started...")
     
-            # 모델 평가
             evaluate_model(model, test_loader, device)
 
 if __name__ == "__main__":
