@@ -7,4 +7,4 @@ The dataset used in this project is CIFAR-10, and it is noted that the structure
 To run this project, use `main.py` as the entry point.
 The implemented configuration of VGGNet is A.
 
-Source: [ImageNet Classification with Deep Convolutional Neural Networks.](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
+Source: [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
